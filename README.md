@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Esteba M.</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
+- 🌱 I am currently learning **PYTHON,FASTAPI,KOTLIN**
+
+- 📫 How to reach me: **esteban@playcell.fun**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
